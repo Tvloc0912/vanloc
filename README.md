@@ -1,6 +1,6 @@
 <h1> Xin chào <img src="https://i.imgur.com/Z18AI4n.gif" width="25"></h1> 
 
-Tớ tên là **Văn Lộc**👻
+Tớ tên là **Văn Lộc** 👻
 
 
 
