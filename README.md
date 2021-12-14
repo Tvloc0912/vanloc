@@ -10,14 +10,14 @@ Tớ tên là **Văn Lộc** 👻
 
 
 
-**Giới thiệu**
+⚜️ **Giới thiệu** ⚜️
 
 
 
-- 🔥 Tôi tên là **Trịnh Văn Lộc**
+- ⏩ Tôi tên là **Trịnh Văn Lộc**
 
-- 🔥 Giới tính: **Nam 💙**
+- ⏩ Giới tính: **Nam ⏪**
 
-- 🔥 Ns: **09-12-2003 💛**
+- ⏩ Ns: **09-12-2003 ⏪**
 
-- 🔥 Zalo: **0938422518 💜**
+- ⏩ Zalo: **0938422518 ⏪**
