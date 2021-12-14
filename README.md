@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Tvloc0912
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1> Xin chào <img src="https://i.imgur.com/Z18AI4n.gif" width="25"></h1> 
 
-<!---
-Tvloc0912/Tvloc0912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Tớ tên là **Văn Lộc**👻
+
+
+
+<p align="center">
+    <img align="center" alt="GIF" src="https://i.imgur.com/Z18AI4n.gif" />
+</p> 
+
+
+
+**Giới thiệu**
+
+
+
+- 🔥 Tôi tên là **Trịnh Văn Lộc**
+
+- 🔥 Giới tính: **Nam**
+
+- 🔥 Ngày sinh: **09-12-2003 🚷**
