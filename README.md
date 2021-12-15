@@ -1,6 +1,13 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=Hi%2C+I'm+Vloc+!;Welcome+to+my+Github+!)](https://git.io/typing-svg)
+
+
+
+### A little more about me...
+
+ - My real name is **Văn Lộc**
 <h1> Xin chào <img src="https://i.imgur.com/Z18AI4n.gif" width="25"></h1> 
 
-Tớ tên là **Văn Lộc** 👻
+**Ngày Mới Vui Vẻ** 👻
 
 
 
