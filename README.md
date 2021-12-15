@@ -5,7 +5,7 @@
 ### A little more about me...
 
  - My real name is **Văn Lộc**
-<h1> Xin chào <img src="https://i.imgur.com/Z18AI4n.gif" width="25"></h1> 
+<img src="https://i.imgur.com/Z18AI4n.gif" width="25"></h1> 
 
 **Ngày Mới Vui Vẻ** 👻
 
